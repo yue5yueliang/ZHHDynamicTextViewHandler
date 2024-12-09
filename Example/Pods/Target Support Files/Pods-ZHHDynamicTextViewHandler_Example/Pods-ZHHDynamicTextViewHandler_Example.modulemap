@@ -1,0 +1,6 @@
+framework module Pods_ZHHDynamicTextViewHandler_Example {
+  umbrella header "Pods-ZHHDynamicTextViewHandler_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

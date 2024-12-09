@@ -1,0 +1,6 @@
+framework module ZHHDynamicTextViewHandler {
+  umbrella header "ZHHDynamicTextViewHandler-umbrella.h"
+
+  export *
+  module * { export * }
+}

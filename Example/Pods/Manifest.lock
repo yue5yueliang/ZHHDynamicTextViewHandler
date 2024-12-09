@@ -1,0 +1,16 @@
+PODS:
+  - ZHHDynamicTextViewHandler (0.0.1)
+
+DEPENDENCIES:
+  - ZHHDynamicTextViewHandler (from `../`)
+
+EXTERNAL SOURCES:
+  ZHHDynamicTextViewHandler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHHDynamicTextViewHandler: b4f74469bd1625b076155897b3d68e42ee5f88c8
+
+PODFILE CHECKSUM: def952826c7887e4888811b16aa00670c83e75bf
+
+COCOAPODS: 1.16.2
