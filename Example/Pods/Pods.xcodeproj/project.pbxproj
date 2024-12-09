@@ -41,13 +41,13 @@
 		195544A8C071C5A75DE00C1D01D87C9D /* Pods-ZHHDynamicTextViewHandler_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZHHDynamicTextViewHandler_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1E4136CBC2E00C8D0510188380FA7811 /* ZHHDynamicTextViewHandler.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ZHHDynamicTextViewHandler.modulemap; sourceTree = "<group>"; };
 		2C6397824EF3A799B36193DA62C8046B /* Pods-ZHHDynamicTextViewHandler_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZHHDynamicTextViewHandler_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		2D5D82A48BB8E2748E6AAE2BF2260FEC /* ZHHDynamicTextViewHandler.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ZHHDynamicTextViewHandler.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2D5D82A48BB8E2748E6AAE2BF2260FEC /* ZHHDynamicTextViewHandler.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ZHHDynamicTextViewHandler.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3BE23C7E46AE128FC0736AAB6F93D9E3 /* ZHHDynamicTextViewHandler.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZHHDynamicTextViewHandler.release.xcconfig; sourceTree = "<group>"; };
 		421D99A152DE36DD857BD4A89EBF16EA /* Pods-ZHHDynamicTextViewHandler_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZHHDynamicTextViewHandler_Tests-dummy.m"; sourceTree = "<group>"; };
 		4E0EE676D7CC2F6EA7F0A7E0A466D273 /* Pods-ZHHDynamicTextViewHandler_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZHHDynamicTextViewHandler_Example-umbrella.h"; sourceTree = "<group>"; };
 		5A383F1F8AF3DE4789D64F0002A9A61E /* Pods-ZHHDynamicTextViewHandler_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZHHDynamicTextViewHandler_Tests-Info.plist"; sourceTree = "<group>"; };
-		5ED8E34090BDBF44ADD1CFEDE011311D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5ED8E34090BDBF44ADD1CFEDE011311D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		6BDB57401E45F57A9E9161AD136C7445 /* ZHHDynamicTextViewHandler.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZHHDynamicTextViewHandler.debug.xcconfig; sourceTree = "<group>"; };
 		7DD7A8454786C4D73F452398BB762EC0 /* Pods-ZHHDynamicTextViewHandler_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZHHDynamicTextViewHandler_Tests-umbrella.h"; sourceTree = "<group>"; };
 		88700125AA799F4B3A067DD5F6BC1012 /* ZHHDynamicTextViewHandler-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ZHHDynamicTextViewHandler-dummy.m"; sourceTree = "<group>"; };
@@ -55,18 +55,18 @@
 		8D552FFF7E1BE8C1EC5ECD0B6362EC65 /* Pods-ZHHDynamicTextViewHandler_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZHHDynamicTextViewHandler_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		90344AF9E3720B400C147EA6D5E24703 /* Pods-ZHHDynamicTextViewHandler_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZHHDynamicTextViewHandler_Example-Info.plist"; sourceTree = "<group>"; };
 		99D608A5D44FD411D19B7E2D0DEE9EF1 /* Pods-ZHHDynamicTextViewHandler_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZHHDynamicTextViewHandler_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A162E2CD9221A339A9B39F2A34B825C3 /* Pods-ZHHDynamicTextViewHandler_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZHHDynamicTextViewHandler_Tests.modulemap"; sourceTree = "<group>"; };
-		AF51CFEF321DA3D489A99B416BCB24A5 /* ZHHDynamicTextViewHandler.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ZHHDynamicTextViewHandler.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AF51CFEF321DA3D489A99B416BCB24A5 /* ZHHDynamicTextViewHandler */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ZHHDynamicTextViewHandler; path = ZHHDynamicTextViewHandler.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B87A99A26C1E5EE8949959191D350BD1 /* Pods-ZHHDynamicTextViewHandler_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZHHDynamicTextViewHandler_Example-dummy.m"; sourceTree = "<group>"; };
 		CB91465ED687445ACE99CC0E79F7D5D9 /* Pods-ZHHDynamicTextViewHandler_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZHHDynamicTextViewHandler_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		CF99F868B09FC4178FB30DA02609B62D /* Pods-ZHHDynamicTextViewHandler_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZHHDynamicTextViewHandler_Example.modulemap"; sourceTree = "<group>"; };
 		D6AECADE37547F7199451AD01DA91785 /* Pods-ZHHDynamicTextViewHandler_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZHHDynamicTextViewHandler_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		D6CCBD05E96A5D299217BDF4FEB37AA3 /* Pods_ZHHDynamicTextViewHandler_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZHHDynamicTextViewHandler_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6CCBD05E96A5D299217BDF4FEB37AA3 /* Pods-ZHHDynamicTextViewHandler_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ZHHDynamicTextViewHandler_Example"; path = Pods_ZHHDynamicTextViewHandler_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFE20C7C8D0151F3FFC94A2B1E45C93D /* ZHHDynamicTextViewHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ZHHDynamicTextViewHandler.swift; path = ZHHDynamicTextViewHandler/Classes/ZHHDynamicTextViewHandler.swift; sourceTree = "<group>"; };
-		ED924DC5C105D2E684A690BEFC8A868E /* Pods_ZHHDynamicTextViewHandler_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZHHDynamicTextViewHandler_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED924DC5C105D2E684A690BEFC8A868E /* Pods-ZHHDynamicTextViewHandler_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ZHHDynamicTextViewHandler_Tests"; path = Pods_ZHHDynamicTextViewHandler_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0339F7F6779670AD2B373A8C741F7B2 /* Pods-ZHHDynamicTextViewHandler_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZHHDynamicTextViewHandler_Example-frameworks.sh"; sourceTree = "<group>"; };
-		F494DB2146AAA943C547D9BA74DB7535 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		F494DB2146AAA943C547D9BA74DB7535 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		F49F52A6ECF651CA474210041232D44F /* ZHHDynamicTextViewHandler-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ZHHDynamicTextViewHandler-Info.plist"; sourceTree = "<group>"; };
 		F5DFA8E02907296B0B294E4B162127C2 /* Pods-ZHHDynamicTextViewHandler_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZHHDynamicTextViewHandler_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		FC67A35B948DD5E3EDD1A82E5773250C /* Pods-ZHHDynamicTextViewHandler_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZHHDynamicTextViewHandler_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -118,9 +118,9 @@
 		160A1CD5F15E3A560968D11824DBEADC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D6CCBD05E96A5D299217BDF4FEB37AA3 /* Pods_ZHHDynamicTextViewHandler_Example.framework */,
-				ED924DC5C105D2E684A690BEFC8A868E /* Pods_ZHHDynamicTextViewHandler_Tests.framework */,
-				AF51CFEF321DA3D489A99B416BCB24A5 /* ZHHDynamicTextViewHandler.framework */,
+				D6CCBD05E96A5D299217BDF4FEB37AA3 /* Pods-ZHHDynamicTextViewHandler_Example */,
+				ED924DC5C105D2E684A690BEFC8A868E /* Pods-ZHHDynamicTextViewHandler_Tests */,
+				AF51CFEF321DA3D489A99B416BCB24A5 /* ZHHDynamicTextViewHandler */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -269,7 +269,7 @@
 			);
 			name = "Pods-ZHHDynamicTextViewHandler_Example";
 			productName = Pods_ZHHDynamicTextViewHandler_Example;
-			productReference = D6CCBD05E96A5D299217BDF4FEB37AA3 /* Pods_ZHHDynamicTextViewHandler_Example.framework */;
+			productReference = D6CCBD05E96A5D299217BDF4FEB37AA3 /* Pods-ZHHDynamicTextViewHandler_Example */;
 			productType = "com.apple.product-type.framework";
 		};
 		6CEC942F00DE8957F0E751F9E406898A /* Pods-ZHHDynamicTextViewHandler_Tests */ = {
@@ -288,7 +288,7 @@
 			);
 			name = "Pods-ZHHDynamicTextViewHandler_Tests";
 			productName = Pods_ZHHDynamicTextViewHandler_Tests;
-			productReference = ED924DC5C105D2E684A690BEFC8A868E /* Pods_ZHHDynamicTextViewHandler_Tests.framework */;
+			productReference = ED924DC5C105D2E684A690BEFC8A868E /* Pods-ZHHDynamicTextViewHandler_Tests */;
 			productType = "com.apple.product-type.framework";
 		};
 		D70172BF74A7A346B48622A141FD920D /* ZHHDynamicTextViewHandler */ = {
@@ -306,7 +306,7 @@
 			);
 			name = ZHHDynamicTextViewHandler;
 			productName = ZHHDynamicTextViewHandler;
-			productReference = AF51CFEF321DA3D489A99B416BCB24A5 /* ZHHDynamicTextViewHandler.framework */;
+			productReference = AF51CFEF321DA3D489A99B416BCB24A5 /* ZHHDynamicTextViewHandler */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -315,12 +315,11 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 1600;
-				LastUpgradeCheck = 1610;
+				LastUpgradeCheck = 1600;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -328,6 +327,8 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			minimizedProjectReferenceProxies = 0;
+			preferredProjectObjectVersion = 77;
 			productRefGroup = 160A1CD5F15E3A560968D11824DBEADC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -407,18 +408,21 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		20EAD7E836AF5916E8E768535ADBCA40 /* Release */ = {
+		71B7F20D4225A34F2853F81D9746D56C /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FC67A35B948DD5E3EDD1A82E5773250C /* Pods-ZHHDynamicTextViewHandler_Example.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_MODULE_VERIFIER = YES;
+				ENABLE_MODULE_VERIFIER = NO;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Example/Pods-ZHHDynamicTextViewHandler_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -430,7 +434,6 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Example/Pods-ZHHDynamicTextViewHandler_Example.modulemap";
-				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++14";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -445,57 +448,21 @@
 			};
 			name = Release;
 		};
-		4797522B91C453600FA34935726A93DB /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3BE23C7E46AE128FC0736AAB6F93D9E3 /* ZHHDynamicTextViewHandler.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_MODULE_VERIFIER = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = NO;
-				GCC_PREFIX_HEADER = "Target Support Files/ZHHDynamicTextViewHandler/ZHHDynamicTextViewHandler-prefix.pch";
-				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = "Target Support Files/ZHHDynamicTextViewHandler/ZHHDynamicTextViewHandler-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/ZHHDynamicTextViewHandler/ZHHDynamicTextViewHandler.modulemap";
-				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++14";
-				PRODUCT_MODULE_NAME = ZHHDynamicTextViewHandler;
-				PRODUCT_NAME = ZHHDynamicTextViewHandler;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		69DD8A6628E2CD968C56D18E5F4F7FE7 /* Debug */ = {
+		8B38753E4FA94DD976B4FF556FAC9C50 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F5DFA8E02907296B0B294E4B162127C2 /* Pods-ZHHDynamicTextViewHandler_Tests.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_MODULE_VERIFIER = YES;
+				ENABLE_MODULE_VERIFIER = NO;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Tests/Pods-ZHHDynamicTextViewHandler_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -507,7 +474,6 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Tests/Pods-ZHHDynamicTextViewHandler_Tests.modulemap";
-				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++14";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -520,81 +486,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		85729FE3F1B80135C900A731C3B44E77 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2C6397824EF3A799B36193DA62C8046B /* Pods-ZHHDynamicTextViewHandler_Example.debug.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_MODULE_VERIFIER = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = NO;
-				INFOPLIST_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Example/Pods-ZHHDynamicTextViewHandler_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Example/Pods-ZHHDynamicTextViewHandler_Example.modulemap";
-				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++14";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		89433DE64C3652010F32AC375D91D285 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CB91465ED687445ACE99CC0E79F7D5D9 /* Pods-ZHHDynamicTextViewHandler_Tests.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_MODULE_VERIFIER = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = NO;
-				INFOPLIST_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Tests/Pods-ZHHDynamicTextViewHandler_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Tests/Pods-ZHHDynamicTextViewHandler_Tests.modulemap";
-				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++14";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		8DE5143C03248BB6CD542DE3963D6F3A /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -631,7 +522,6 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
-				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -655,10 +545,50 @@
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		925BB024F45988643F1E33F934C90A7F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6BDB57401E45F57A9E9161AD136C7445 /* ZHHDynamicTextViewHandler.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_PREFIX_HEADER = "Target Support Files/ZHHDynamicTextViewHandler/ZHHDynamicTextViewHandler-prefix.pch";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "Target Support Files/ZHHDynamicTextViewHandler/ZHHDynamicTextViewHandler-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/ZHHDynamicTextViewHandler/ZHHDynamicTextViewHandler.modulemap";
+				PRODUCT_MODULE_NAME = ZHHDynamicTextViewHandler;
+				PRODUCT_NAME = ZHHDynamicTextViewHandler;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_INSTALL_OBJC_HEADER = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
@@ -697,7 +627,6 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
-				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -717,6 +646,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
@@ -724,18 +654,20 @@
 			};
 			name = Release;
 		};
-		DC0E1A684FB39AB49F89A22B64FA1C89 /* Debug */ = {
+		C7274643D800D79096EC8260866091AD /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6BDB57401E45F57A9E9161AD136C7445 /* ZHHDynamicTextViewHandler.debug.xcconfig */;
+			baseConfigurationReference = 3BE23C7E46AE128FC0736AAB6F93D9E3 /* ZHHDynamicTextViewHandler.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_MODULE_VERIFIER = YES;
+				ENABLE_MODULE_VERIFIER = NO;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GCC_PREFIX_HEADER = "Target Support Files/ZHHDynamicTextViewHandler/ZHHDynamicTextViewHandler-prefix.pch";
 				GENERATE_INFOPLIST_FILE = NO;
@@ -748,7 +680,6 @@
 					"@loader_path/Frameworks",
 				);
 				MODULEMAP_FILE = "Target Support Files/ZHHDynamicTextViewHandler/ZHHDynamicTextViewHandler.modulemap";
-				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++14";
 				PRODUCT_MODULE_NAME = ZHHDynamicTextViewHandler;
 				PRODUCT_NAME = ZHHDynamicTextViewHandler;
 				SDKROOT = iphoneos;
@@ -757,10 +688,90 @@
 				SWIFT_INSTALL_OBJC_HEADER = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E788AEA15B52989EFB864CAAA0EA6B95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2C6397824EF3A799B36193DA62C8046B /* Pods-ZHHDynamicTextViewHandler_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				INFOPLIST_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Example/Pods-ZHHDynamicTextViewHandler_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Example/Pods-ZHHDynamicTextViewHandler_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
+		};
+		E8B8797930177F9AFD2DFD12E4EA1E1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CB91465ED687445ACE99CC0E79F7D5D9 /* Pods-ZHHDynamicTextViewHandler_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				INFOPLIST_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Tests/Pods-ZHHDynamicTextViewHandler_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ZHHDynamicTextViewHandler_Tests/Pods-ZHHDynamicTextViewHandler_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
@@ -768,8 +779,8 @@
 		20DF89A2E055A87E916825AE198D9B8B /* Build configuration list for PBXNativeTarget "ZHHDynamicTextViewHandler" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DC0E1A684FB39AB49F89A22B64FA1C89 /* Debug */,
-				4797522B91C453600FA34935726A93DB /* Release */,
+				925BB024F45988643F1E33F934C90A7F /* Debug */,
+				C7274643D800D79096EC8260866091AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -786,8 +797,8 @@
 		95786B4015265B7DD439EC2637F8FA60 /* Build configuration list for PBXNativeTarget "Pods-ZHHDynamicTextViewHandler_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				69DD8A6628E2CD968C56D18E5F4F7FE7 /* Debug */,
-				89433DE64C3652010F32AC375D91D285 /* Release */,
+				8B38753E4FA94DD976B4FF556FAC9C50 /* Debug */,
+				E8B8797930177F9AFD2DFD12E4EA1E1F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -795,8 +806,8 @@
 		ED30EF94882E2FAFC29396D527078F23 /* Build configuration list for PBXNativeTarget "Pods-ZHHDynamicTextViewHandler_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				85729FE3F1B80135C900A731C3B44E77 /* Debug */,
-				20EAD7E836AF5916E8E768535ADBCA40 /* Release */,
+				E788AEA15B52989EFB864CAAA0EA6B95 /* Debug */,
+				71B7F20D4225A34F2853F81D9746D56C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
